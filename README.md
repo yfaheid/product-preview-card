@@ -21,6 +21,7 @@ Users should be able to:
 
 ### Links
 
+- Solution URL: https://www.frontendmentor.io/solutions/frontend-mentor-product-preview-card-component-solution-J6lWXFmdlq
 - Live Site URL: https://effulgent-platypus-1b4a2e.netlify.app/
 
 ### Built with
